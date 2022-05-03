@@ -1,8 +1,13 @@
 {
-  "name": "ckeditor5-custom-build",
+  "name": "ckeditor5-to-the-root",
   "author": "CKSource",
-  "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
+  "description": "A custom CKEditor 5 build for the To The Root backend environment.",
   "version": "0.0.1",
+  "homepage": "https://github.com/dennis-ordina/ckeditor5-to-the-root",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dennis-ordina/ckeditor5-to-the-root.git"
+  },
   "license": "SEE LICENSE IN LICENSE.md",
   "private": true,
   "main": "./build/ckeditor.js",
